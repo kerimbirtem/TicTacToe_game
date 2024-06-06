@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Jun  4 12:07:06 2024
-
 @author: kerim
 """
 import random
